@@ -40,10 +40,8 @@ https://user-images.githubusercontent.com/99892898/184361402-13b8b507-b4a8-42b7-
 
 
 #### Group Members
-1. Aman Kumar(210002012)
-2. Rishabh Patil(210002062)
-3. Parth Toshniwal(210002056)
-4. Prajwal Bastewad(210002021)
+Aman Kumar
+Rishabh Patil
 
 ## Group Mentor
 
